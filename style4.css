@@ -1005,7 +1005,7 @@ body {
   animation: fadeInUp 1.5s ease 4s forwards;
   position: absolute;
   bottom: 40px;
-left: 42%;
+left: 40%;
 transform: translateX(-50%);
 
 }
