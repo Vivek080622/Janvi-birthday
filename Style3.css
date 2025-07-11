@@ -3,11 +3,12 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background: #b784db;
+    background: #a579c5;
   }
   .envelope {
     position: relative;
     cursor: pointer;
+  
   }
   
   .back {
@@ -18,7 +19,7 @@ body {
   }
   .front {
     position: absolute;
-    border-right: 130px solid #694b98;
+    border-right: 130px solid #815ac0;
     border-top: 100px solid transparent;
     border-bottom: 100px solid transparent;
     height: 0;
@@ -78,9 +79,9 @@ body {
   }
   .text1 {
     position: absolute;
-    color: white;
+    color: rgb(244, 6, 6);
     font-family: sans-serif;
-    top: -50%;
+    top: -70%;
   }
   .text {
     text-align: center;
@@ -100,8 +101,8 @@ body {
     height: 70px;
     width: 70px;
     position: relative;
-    top: 20px;
-    left: 20px;
+    top: 22px;
+    left: 30px;
     transform: rotate(-45deg);
     box-shadow: -5px 10px 90px red;
     animation: untoldcoding 0.8s linear infinite;
